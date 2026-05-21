@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual Env
+.venv/
+
+# Environment
+.env
+**/.env
+
+# Uploaded Docs
+uploaded_docs/
+
+# Streamlit History
+chat_history.json
+
+# Python cache
+*.pyc
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+.venv/
+.env
+**/.env
+uploaded_docs/
+server/uploaded_docs/
+__pycache__/
