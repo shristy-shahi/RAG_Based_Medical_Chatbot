@@ -1,32 +1,27 @@
-# Web Framework
 fastapi
 uvicorn[standard]
 python-multipart
 
-# LangChain & Ecosystem
 langchain
 langchain-community
 langchain-core
 langchain-groq
 
-# Vectorstore
 pinecone
 
-# Embeddings
 langchain-google-genai
 
-# PDF Parsing
+sentence-transformers
+transformers
+torch
+langchain-huggingface
+
 pypdf
 
-# Environment Variables
 python-dotenv
 
-# Typing & Utilities
 pydantic
 requests
 tqdm
 
-# Logging
 loguru
-
-#uv pip install -r requirements.txt
